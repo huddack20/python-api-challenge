@@ -1,3 +1,7 @@
+# In the starter_code folder, there are two Jupyter Notebook codes ending with "ChangWoonJang".
+# In the Images folder, two png files ending with ChangWoonJang are the results from VacationPy.
+
+
 # Unit 6 Homework: What's the Weather Like?
 
 ## Background
